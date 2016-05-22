@@ -1,4 +1,4 @@
-# Excel-MySQL-Tools
+# Import and Export MySQL Data to Excel
 Simple Backup, Restore, and Append MySQL Data from Excel using Visual Basic for Applications Code.
 
 ## Requirements
